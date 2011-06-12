@@ -45,3 +45,7 @@ gem 'jquery-rails', '~> 0.2.2'
 # group :development, :test do
 #   gem 'webrat'
 # end
+
+group :development do
+  gem 'heroku'
+end
